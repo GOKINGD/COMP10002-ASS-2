@@ -1,0 +1,2 @@
+# COMP10002-ASS-2
+comp10002 Foundations of Algorithms Semester 2, 2022 Assignment 2 Learning Outcomes In this project, you will demonstrate your understanding of dynamic memory and linked data structures (Chapter 10) and extend your program design, testing, and debugging skills. You will also learn about the problem of process discovery and implement a simple algorithm for discovering a process model from event data.
